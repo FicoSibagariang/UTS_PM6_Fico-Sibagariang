@@ -5,4 +5,9 @@
     <string name="password">Password</string>
     <string name="text1">Choose Your Card Design</string>
     <string name="create">Create</string>
+    <string name="name">Enter your name</string>
+    <string name="judul">Write Your Greeting Card</string>
+    <string name="inputname">Your Name</string>
+    <string name="headerGC">Your Greeting Card</string>
+    <string name="greetcard">Write Your Greeting Card</string>
 </resources>

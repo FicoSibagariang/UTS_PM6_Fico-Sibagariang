@@ -1,5 +1,6 @@
 package com.example.ucapin
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -13,5 +14,15 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        binding.btnCreate.setOnClickListener {
+            val intent = Intent(this,SecondActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.btnCreate2.setOnClickListener {
+            val intent = Intent(this,SecondActivity ::class.java)
+            startActivity(intent)
+        }
     }
 }
