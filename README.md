@@ -23,20 +23,20 @@ Aplikasi Ucapin ini adalah aplikasi yang dapat mengirimkan kartu ucapan kepada o
 
 
 # Application Screenshot
-![login](https://github.com/user-attachments/assets/db956449-44b3-40d7-af95-cd525d8aabff)
+<img src="https://github.com/user-attachments/assets/db956449-44b3-40d7-af95-cd525d8aabff" height="450"/>
 
 
 <br />
-![home](https://github.com/user-attachments/assets/ade0391b-e643-4299-96c4-6d0386dbde8e)
-![home2](https://github.com/user-attachments/assets/1db4bbd6-437c-462f-8bdd-951910b63bb4)
+<img src="https://github.com/user-attachments/assets/ade0391b-e643-4299-96c4-6d0386dbde8e" height="450"/>
+<img src="https://github.com/user-attachments/assets/1db4bbd6-437c-462f-8bdd-951910b63bb4" height="450"/>
 
 
 <br />
-![second](https://github.com/user-attachments/assets/5ed32723-0514-4db2-8092-85884088409e)
+<img src="https://github.com/user-attachments/assets/5ed32723-0514-4db2-8092-85884088409e" height="450"/>
 
 <br />
-![hasil](https://github.com/user-attachments/assets/58334ad9-7890-428a-bbc8-a3af688c1bfa)
-![hasil2](https://github.com/user-attachments/assets/1dcac198-8dfb-45ba-8d88-ee788c7a47f0)
+<img src="https://github.com/user-attachments/assets/58334ad9-7890-428a-bbc8-a3af688c1bfa" height="450"/>
+<img src="https://github.com/user-attachments/assets/1dcac198-8dfb-45ba-8d88-ee788c7a47f0" height="450"/>
 
 
 # Demo Video
