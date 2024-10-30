@@ -18,8 +18,8 @@
 Aplikasi Ucapin ini adalah aplikasi yang dapat mengirimkan kartu ucapan kepada orang yang dia inginkan secara praktis dan mudah.
 
 
-# Prototype
-- Prototype: <a href="https://www.figma.com/proto/vapYVo6AepnxoVzn95zs06/UTS-Prak.Mobile?node-id=7-7&node-type=canvas&t=yWWUsLXoto8SQq6W-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A7&show-proto-sidebar=1">Prototype</a>
+# Figma
+- Figma: <a href="https://www.figma.com/design/xH1n3GmNDo0P35yb7P83D7/UTS-PM6-Fico?node-id=0-1&t=ggUJjjSQv5TXxPMi-1">Prototype</a>
 
 
 # Application Screenshot
