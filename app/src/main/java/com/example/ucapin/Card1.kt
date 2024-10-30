@@ -1,20 +1,26 @@
 package com.example.ucapin
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import com.example.ucapin.databinding.ActivityCard1Binding
 
 class Card1 : AppCompatActivity() {
+
+    private lateinit var binding: ActivityCard1Binding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
-        setContentView(R.layout.activity_card1)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
-        }
+
+        // Binding layout khusus untuk Card1
+        binding = ActivityCard1Binding.inflate(layoutInflater)
+        setContentView(binding.root)
+
+        // Ambil data dari intent
+        val message = intent.getStringExtra("theMessage") ?: "Default Message 1"
+        val message2 = intent.getStringExtra("theMessage2") ?: "Default Message 2"
+
+        // Tampilkan data ke TextView di Card1
+        binding.txMsg.text = message
+        binding.txMsg2.text = message2
     }
 }
